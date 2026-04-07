@@ -27,7 +27,7 @@ Building scalable cloud infrastructure, automating workflows, and delivering rel
 <p align="left">
 ☁️ Cloud & DevOps enthusiast with hands-on experience in automation, CI/CD, and containerized environments<br>
 🛠 Hands-on experience with Kubernetes, building and managing small-scale systems<br>
-📚 Continuously learning and advancing in AWS, GCP, Infrastructure as Code, and GitOps practices<br>
+📚 Continuously learning and advancing in AWS, Infrastructure as Code, and GitOps practices<br>
 🎯 Goal: Design and maintain resilient, production-ready cloud systems<br>
 🐧 Linux feels more like home than Windows<br>
 🤝 Excited to collaborate on projects and solve real-world challenges
