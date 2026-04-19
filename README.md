@@ -39,11 +39,11 @@ Building scalable cloud infrastructure, automating workflows, and delivering rel
 
 <p align="left">
 <strong>Cloud:</strong> AWS<br>
-<strong>Containers & Orchestration:</strong> Docker | Kubernetes<br>
-<strong>Infrastructure as Code:</strong> Terraform | Ansible<br>
-<strong>CI/CD & GitOps:</strong> Jenkins | GitHub Actions | Bamboo | Argo CD<br>
-<strong>Version Control:</strong> Git | GitHub | Bitbucket<br>
-<strong>Systems & Web:</strong> Linux | NGINX | Bash | SSH
+<strong>Containers & Orchestration:</strong> Docker, Kubernetes<br>
+<strong>Infrastructure as Code:</strong> Terraform, Ansible<br>
+<strong>CI/CD & GitOps:</strong> Jenkins, GitHub Actions, Bamboo, Argo CD<br>
+<strong>Version Control:</strong> Git, GitHub, Bitbucket<br>
+<strong>Systems & Web:</strong> Linux, NGINX, Bash, SSH
 </p>
 
 ---
