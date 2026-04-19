@@ -38,7 +38,7 @@ Building scalable cloud infrastructure, automating workflows, and delivering rel
 <h2 align="left">🛠 Core Technologies</h2>
 
 <p align="left">
-<strong>Cloud:</strong> AWS<br>
+<strong>Cloud:</strong> AWS, GCP (Basics)<br>
 <strong>Containers & Orchestration:</strong> Docker, Kubernetes<br>
 <strong>Infrastructure as Code:</strong> Terraform, Ansible<br>
 <strong>CI/CD & GitOps:</strong> Jenkins, GitHub Actions, Bamboo, Argo CD<br>
